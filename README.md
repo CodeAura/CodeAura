@@ -1,3 +1,5 @@
+#CodeAura
+
 - 👋 Hi, I’m @CodeAura
 - 👀 I’m interested in HTML, CSS, Python, Lua
 - 🌱 I’m currently learning: Python & Lua
