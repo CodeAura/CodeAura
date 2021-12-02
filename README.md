@@ -2,7 +2,7 @@
 
 
 ## I'm a Developer, Gamer, Designer, and a JDM fan.
-- 💼 I'm currently learning [Python]: https://www.python.org 
+- 💼 I'm currently learning [Python](https://www.python.org)
 - 💥 I’m interested in learning new things, and sleeping ofc 🤣
 - 🥅 Goals 2022: Learning how to work with Java 
 - 👪 I’m looking to collaborate with Roblox Studio
