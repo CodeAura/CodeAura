@@ -12,7 +12,7 @@
 [<img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/twitch.png" alt="Mikelol909 | Twitch"/>](https://www.twitch.tv/mikelol909)
 [<img align="left" width="22px" src="https://img.icons8.com/glyph-neue/64/000000/instagram-new.png" alt="Mike._dh | Instagram"/>](https://www.instagram.com/mike._dh/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mikelol909| Twitter"/>](https://twitter.com/itzmikelol909)
-[<img align="left" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" alt="Mike#0504 | Discord"/>](discordapp.com/users/332500728964710410)
+[<img align="left" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" alt="Mike#0504 | Discord"/>](https://discordapp.com/users/332500728964710410)
 -
 
 ## Languages and Tools:
