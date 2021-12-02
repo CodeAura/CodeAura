@@ -1,4 +1,6 @@
-### Hi there, I'm Mike - AKA [CodeAura](https://codeaura.github.io) 
+### Hi there, I'm Mike - AKA [CodeAura](https://codeaura.github.io)
+
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC86x8-PdXV5VBvZZp9wSdsQ?label=MIkelol909&style=for-the-badge)](https://www.youtube.com/channel/UC86x8-PdXV5VBvZZp9wSdsQ)
 
 
 ## I'm a Developer, Gamer, Designer, and a JDM fan.
