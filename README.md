@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fcodeaura.github.io)](https://codeaura.github.io)
 
 
-## I'm a Developer, Gamer, Designer, and a JDM fan.
+## I'm a Developer, Gamer, Designer, and a JDM Car fan.
 - 💼 I'm currently learning [Python](https://www.python.org)
 - 💥 I’m interested in learning new things, and sleeping ofc 🤣
 - 🥅 Goals 2022: Learning how to work with Java 
