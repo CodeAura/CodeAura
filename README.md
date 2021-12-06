@@ -22,6 +22,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://findicons.com/files/icons/2711/free_icons_for_windows8_metro/26/python.png" />
+<img align="left" alt="Lua" width="26px" src="https://findicons.com/files/icons/2773/pictonic_free/24/prog_lua02.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/git-icon.png" />
