@@ -5,7 +5,7 @@
 
 
 ## I'm a Developer, Gamer, Designer, and a JDM Car fan.
-- 💼 I'm currently learning [Python](https://www.python.org) [JavaScript](https://www.javascript.com)
+- 💼 I'm currently learning [Python](https://www.python.org) & [JavaScript](https://www.javascript.com)
 - 💥 I’m interested in learning new things, and sleeping ofc 🤣
 - 🥅 Goals 2022: Learning how to work with Java 
 - 👪 I’m looking to collaborate with Roblox Studio
