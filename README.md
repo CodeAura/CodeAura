@@ -25,7 +25,7 @@
 <img align="left" alt="Lua" width="26px" src="https://findicons.com/files/icons/2773/pictonic_free/24/prog_lua02.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="24px" scr="https://cdn.discordapp.com/attachments/483325612899958796/918481177357209610/javascript.png" />
+<img align="left" alt="JavaScript" width="24px" scr="https://img.icons8.com/color/26/000000/javascript--v1.png" />
 <img align="left" alt="Git" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="CMD" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
