@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fcodeaura.github.io)](https://codeaura.github.io)
 
 
-[<img align="left" src="https://cdn.discordapp.com/attachments/483325612899958796/923130115217584129/ezgif-3-f5fae4490c.gif" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
+[<img align="left" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
 
 
 ## I'm a Developer, Gamer, Designer, and a JDM Car fan.
