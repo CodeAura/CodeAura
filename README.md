@@ -14,7 +14,7 @@
 
 -
 ## Productions server
-[<img align="left" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
+[<img align="center" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
 -
 
 ## Connect with me:
