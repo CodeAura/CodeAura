@@ -12,6 +12,7 @@
 - 🥅 Goals 2022: Learning how to work with Java 
 - 👪 I’m looking to collaborate with Roblox Studio
 
+-
 ## Productions server
 [<img align="left" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
 -
