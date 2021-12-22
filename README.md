@@ -3,6 +3,9 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC86x8-PdXV5VBvZZp9wSdsQ?label=MIkelol909&style=for-the-badge)](https://www.youtube.com/channel/UC86x8-PdXV5VBvZZp9wSdsQ)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fcodeaura.github.io)](https://codeaura.github.io)
 
+[<img align="left" src="https://media.discordapp.net/attachments/483325612899958796/923130115217584129/ezgif-3-f5fae4490c.gif" alt="CodeAura Productions/>](https://discord.gg/HDTVqvuf4g)
+
+
 
 ## I'm a Developer, Gamer, Designer, and a JDM Car fan.
 - 💼 I'm currently learning [Python](https://www.python.org) & [JavaScript](https://www.javascript.com)
