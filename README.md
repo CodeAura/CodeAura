@@ -3,7 +3,7 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC86x8-PdXV5VBvZZp9wSdsQ?label=MIkelol909&style=for-the-badge)](https://www.youtube.com/channel/UC86x8-PdXV5VBvZZp9wSdsQ)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2Fcodeaura.github.io)](https://codeaura.github.io)
 
-
+-
 [<img align="left" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
 -
 
