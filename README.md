@@ -5,6 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaura&theme=onedark" alt="codeaura" /></a> </p>
 
 <br>
+<br>
 
 <p align="center">
 - 🔭 I’m currently working on <a href=https://github.com/CodeAura/openweather-project>OpenWeather</a>
