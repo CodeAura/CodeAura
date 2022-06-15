@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
 <h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy</h3>
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaura&theme=onedark" alt="codeaura" /></a> </p>
 
