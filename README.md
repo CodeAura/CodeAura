@@ -20,6 +20,8 @@
   - 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
 </p>
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/mikelol909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mikelol909" height="30" width="40" /></a>
