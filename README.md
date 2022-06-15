@@ -1,36 +1,32 @@
-### Hi there, I'm Mike - AKA [CodeAura](https://codeaura.github.io)
+<h1 align="center">Hi 👋, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
+<h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy.</h3>
 
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC86x8-PdXV5VBvZZp9wSdsQ?label=MIkelol909&style=for-the-badge)](https://www.youtube.com/channel/UC86x8-PdXV5VBvZZp9wSdsQ)
-[![Website](https://img.shields.io/discord/745717938316902411?label=CodeAura%20Productions&style=for-the-badge)](https://discord.gg/HDTVqvuf4g)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaura" alt="codeaura" /></a> </p>
 
+<p align="center">
+- 🔭 I’m currently working on <a href=https://github.com/CodeAura/openweather-project>OpenWeather</a>
+  </p>
+<p align="center">
+  - 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
+  </p>
+<p align="center">
+  - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
+  </p>
+<p align="center">
+  - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
+  </p>
+<p align="center">
+  - 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
+</p>
 
-[<img align="center" src="https://media4.giphy.com/media/TyfN1yfiTurJI5gPVS/giphy.gif?cid=790b76118c60216ef46aa803ab21f5e378af10c17bbf15ce&rid=giphy.gif&ct=g" alt="Productions server"/>](https://discord.gg/HDTVqvuf4g)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/mikelol909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mikelol909" height="30" width="40" /></a>
+<a href="https://twitter.com/itzmikelol909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmikelol909" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mike den hertog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike den hertog" height="30" width="40" /></a>
+<a href="https://instagram.com/mike._dh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike._dh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mikelol909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikelol909" height="30" width="40" /></a>
+</p>
 
-
-## I'm a Developer, Gamer, Designer, and a JDM Car fan.
-- 💼 I'm currently learning [Python](https://www.python.org) & [JavaScript](https://www.javascript.com)
-- 💥 I’m interested in learning new things, and sleeping ofc 🤣
-- 🥅 Goals 2022: Learning how to work with Java 
-- 👪 I’m looking to collaborate with Roblox Studio
-
-
-## Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Mikelol909 | YouTube"/>](https://www.youtube.com/channel/UC86x8-PdXV5VBvZZp9wSdsQ)
-[<img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/twitch.png" alt="Mikelol909 | Twitch"/>](https://www.twitch.tv/mikelol909)
-[<img align="left" width="22px" src="https://img.icons8.com/glyph-neue/64/000000/instagram-new.png" alt="Mike._dh | Instagram"/>](https://www.instagram.com/mike._dh/)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Mikelol909| Twitter"/>](https://twitter.com/itzmikelol909)
-[<img align="left" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" alt="Mike#0504 | Discord"/>](https://discordapp.com/users/332500728964710410)
--
-
-## Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Roblox Studio" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/roblox_alt_macos_bigsur_icon_189775.png" />
-<img align="left" alt="Python" width="26px" src="https://findicons.com/files/icons/2711/free_icons_for_windows8_metro/26/python.png" />
-<img align="left" alt="Lua" width="26px" src="https://findicons.com/files/icons/2773/pictonic_free/24/prog_lua02.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<img align="left" alt="Git" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/git-icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="CMD" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
