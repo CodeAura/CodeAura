@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy</h3>
 <p align="center">
 My name is Mike I am now 18 years old and I like programming. I am a Student Arround Software/Web Developer at Davinci College in Dordrecht.
-mostly you would find me in the gym where I train my whole body. I also have a part-time job at Action as a Filling Team employee. I also like to play games. And a cup of coffee is also very tasty :)
+mostly you would find me in the gym where I train my whole body. I also have a part-time job at Action Heinenoord as a Shelfstacker. I also like to play games. And a cup of coffee is also very tasty :)
   </p>
 <br>
 <br>
