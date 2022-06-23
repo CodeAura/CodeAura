@@ -3,25 +3,25 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width=30 height=30">, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
 <h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy</h3>
-<br>
-<br>
-
 <p align="center">
+My name is Mike I am now 18 years old and I like programming. I am following an Arround Web Developer education at Davinci College in Dordrecht.
+mostly you would find me in the gym where I train my whole body. I also have a part-time job at Action as a Filling Team employee. I also like to play games. And a cup of coffee is also very tasty :)
+  </p>
+<br>
+<br>
+<img align='right' src='https://media.discordapp.net/attachments/483325612899958796/989497838771769345/Picsart_22-06-23_13-51-00-781.png' width='150"'>
+  
 - 🔭 I’m currently working on <a href=https://github.com/CodeAura/openweather-project>OpenWeather</a>
-  </p>
-<p align="center">
-  - 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
-  </p>
-<p align="center">
-  - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
-  </p>
-<p align="center">
-  - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
-  </p>
-<p align="center">
-  - 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
-</p>
-
+- 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
+- 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
+- 🥅 Goals: <strong>Becomming a succesfull developer</strong>
+- 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
+- 😄 Relation: **Single**
+- ⚡ Fun fact: I love to do *Crypto* and *Sidehustles*
+- 🏃 Hobbies: The Gym and playing Games 🎮
+- ✈️ Spain is my Second Country :)
+                         
+<br>
 <br>
 
 <h3 align="center">Connect with me:</h3>
