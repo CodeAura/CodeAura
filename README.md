@@ -16,7 +16,7 @@ mostly you would find me in the gym where I train my whole body. I also have a p
 - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
 - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
 - 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
-- 😄 Relation: **Single**
+- 🇳🇱 My Country: **Netherlands!**
 - ⚡ Fun fact: I love to do *Crypto* and *Sidehustles*
 - 🏃 Hobbies: The Gym and playing Games 🎮
 - ✈️ Spain is my Second Country :)
@@ -31,7 +31,7 @@ mostly you would find me in the gym where I train my whole body. I also have a p
 <a href="https://linkedin.com/in/mike den hertog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike den hertog" height="30" width="40" /></a>
 <a href="https://instagram.com/mike._dh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike._dh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mikelol909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikelol909" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/mikee0186?share_id=Z0EaQmZ4BMU&locale=nl-NL" target="blank"><img align="center" src="https://seeklogo.com/images/S/snapchat-logo-F20CDB1199-seeklogo.com.png" alt="mikee0186" height="30" width="30" /></a>
+<a href="https://www.snapchat.com/add/mikee0186" target="blank"><img align="center" src="https://seeklogo.com/images/S/snapchat-logo-F20CDB1199-seeklogo.com.png" alt="mikee0186" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
