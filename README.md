@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif width=20&height=20">, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
 <h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy</h3>
 <br>
 
