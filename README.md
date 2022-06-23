@@ -42,3 +42,6 @@ mostly you would find me in the gym where I train my whole body. I also have a p
   <br>
   <p align="center">Here you will find my github activity!</p>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaura&theme=onedark" alt="codeaura" /></a> </p>
+  
+  
+<img align="center" src="https://media.discordapp.net/attachments/483325612899958796/989508762006073394/Picsart_22-06-23_14-34-25-605.png">
