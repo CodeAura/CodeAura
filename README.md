@@ -11,7 +11,7 @@ mostly you would find me in the gym where I train my whole body. I also have a p
 <br>
 <img align='right' src='https://media.discordapp.net/attachments/483325612899958796/989497838771769345/Picsart_22-06-23_13-51-00-781.png' width='150"'>
   
-- 🔭 I’m currently working on <a href=https://github.com/CodeAura/openweather-project>OpenWeather</a>
+- 🔭 I’m currently working on <a href=https://github.com/CodeAura/Employee-Schedule-NUNU>Employee Schedule</a>
 - 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
 - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
 - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
