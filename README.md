@@ -17,7 +17,7 @@ mostly you would find me in the gym where I train my whole body. I also have a p
 - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
 - 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
 - 🇳🇱 My Country: **Netherlands!**
-- ⚡ Fun fact: I love to do *Crypto* and *Sidehustles*
+- ⚡ Fun fact: I am a *ROBLOX Developer* and i do *Sidehustles*
 - 🏃 Hobbies: The Gym and playing Games 🎮
 - ✈️ Spain is my Second Country :)
                          
