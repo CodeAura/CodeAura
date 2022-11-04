@@ -15,7 +15,7 @@ mostly you would find me in the gym where I train my whole body. I also have a p
 - 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
 - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
 - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
-- 📫 How to reach me: <a href=mailto:mikedh.prive@gmail.com>mikedh.prive@gmail.com</a>
+- 📫 How to reach me: <a href=mailto:mikedh.zakelijk@gmail.com>mikedh.zakelijk@gmail.com</a>
 - 🇳🇱 My Country: **Netherlands!**
 - ⚡ Fun fact: I am a *ROBLOX Developer* and i do *Sidehustles*
 - 🏃 Hobbies: The Gym and playing Games 🎮
