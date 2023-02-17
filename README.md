@@ -11,13 +11,13 @@ mostly you would find me in the gym where I train my whole body. I also like to 
 <br>
 <img align='right' src='https://media.discordapp.net/attachments/483325612899958796/989497838771769345/Picsart_22-06-23_13-51-00-781.png' width='150"'>
   
-- 🔭 I’m currently working on <a href=https://github.com/CodeAura/Employee-Schedule-NUNU>Employee Schedule</a>
+- 🔭 I’m currently working on **Schoolprojects**
 - 🌱 I’m currently learning <a href=https://www.javascript.com>JavaScript</a> & <a href=https://www.python.org>Python</a>
 - 👨‍💻 All of my projects are available at <a href=https://codeaura.xyz>CodeAura</a>
 - 🥅 Goals: <strong>Becomming a succesfull developer</strong>
 - 📫 How to reach me: <a href=mailto:mikedh.zakelijk@gmail.com>mikedh.zakelijk@gmail.com</a>
 - 🇳🇱 My Country: **Netherlands!**
-- ⚡ Fun fact: I am a *ROBLOX Developer* and i do *Sidehustles*
+- ⚡ Fun fact: I am a *ROBLOX Developer / Entrepreneur* and i do *Sidehustles*
 - 🏃 Hobbies: The Gym and playing Games 🎮
 - ✈️ Spain is my Second Country :)
                          
