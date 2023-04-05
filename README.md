@@ -20,9 +20,13 @@ mostly you would find me in the gym where I train my whole body. I also like to 
 - ⚡ Fun fact: I am a *ROBLOX Developer / Entrepreneur* and i do *Sidehustles*
 - 🏃 Hobbies: The Gym and playing Games 🎮
 - ✈️ Spain is my Second Country :)
+  
                          
 <br>
 <br>
+  
+<a href="https://discord.com/users/332500728964710410"><img align="right" src="https://lanyard.cnrad.dev/api/332500728964710410?bg=343F5B&idleMessage=Contact%20%Me" /></a>
+  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
