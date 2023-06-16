@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width=30 height=30">, I'm Mike - AKA <a href=https://codeaura.xyz>CodeAura</a></h1>
 <h3 align="center">I'm a Developer, Gamer, Designer, Gym Guy</h3>
 <p align="center">
-My name is Mike I am now 18 years old and I like programming. I am a Student Arround Software/Web Developer at Davinci College in Dordrecht.
+My name is Mike I am now 19 years old and I like programming. I am a Student Arround Software/Web Developer at Davinci College in Dordrecht.
 mostly you would find me in the gym where I train my whole body. I also like to play games. And a cup of coffee is also very tasty :)
   </p>
 <br>
