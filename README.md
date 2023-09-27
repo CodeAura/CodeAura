@@ -7,11 +7,12 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeAura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CodeAura&locale=en&mode=daily&theme=slateorange&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeAura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="300" src="https://media.discordapp.net/attachments/483325612899958796/989497838771769345/Picsart_22-06-23_13-51-00-781.png"  />
 
@@ -49,7 +50,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
