@@ -48,7 +48,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" alt="Snake animation" />
-
 ###
