@@ -1,7 +1,7 @@
 <div align="center">
   <img height="200" src="https://github.com/CodeAura/CodeAura/blob/main/banner.png"  />
 </div>
-<h2 align="left">Hi 👋! My name is Mike and I'm a Student Software Developer from the Netherlands</h2>
+<h2 align="left">Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" height="20"> ! My name is Mike and I'm a Student Software Developer from the Netherlands</h2>
 
 ###
 
