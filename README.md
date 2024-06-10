@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/483325612899958796/989492926138679316/Picsart_22-06-23_13-31-16-375.png"  />
+  <img height="200" src=""  />
 </div>
 <h2 align="left">Hi 👋! My name is Mike and I'm a Student Software Developer from the Netherlands</h2>
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media.discordapp.net/attachments/483325612899958796/989497838771769345/Picsart_22-06-23_13-51-00-781.png"  />
+<img align="right" height="300" src="https://github.com/CodeAura/CodeAura/blob/main/Skills.png"  />
 
 ###
 
