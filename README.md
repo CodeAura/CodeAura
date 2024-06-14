@@ -53,8 +53,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/332500728964710410?theme=dark&bg=1f1f1f&animated=true&hideDiscrim=true&borderRadius=30px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/332500728964710410)
 
 ###
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" alt="Snake animation" />
 
 ###
