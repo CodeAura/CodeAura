@@ -59,11 +59,8 @@
   </a>
   <br /><br />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" width="100%" alt="Snake eating my contributions" />
-  </picture>
+  <!-- Restore the <picture> with snake-dark.svg once the snake workflow has run -->
+  <img src="https://raw.githubusercontent.com/CodeAura/CodeAura/output/snake.svg" width="100%" alt="Snake eating my contributions" />
 </div>
 
 <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by!" />
